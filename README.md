@@ -34,5 +34,14 @@ sudo apt-get update
 sudo dpkg -i code*-1536736588.deb
 ```
 
+Installing AWS CLI
+```
+steps
+```
+
+
+Installing GOOGLE Console
+```
+```
 Enjoy
 
