@@ -36,7 +36,9 @@ sudo dpkg -i code*-1536736588.deb
 
 Installing AWS CLI
 ```
-steps
+sudo apt-get install python-pip
+sudo pip install awscli
+
 ```
 
 
