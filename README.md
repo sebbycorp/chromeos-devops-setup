@@ -3,6 +3,16 @@ The following is a set of scripts and commands to setup a chromebook with terraf
 
 Chrome OS has become a DevOps Machine! Here are the steps to install Terraform + Ansible and Visual Code Studio
 
+
+
+
+Enable File Sharing between Chrome OS and Linux
+```
+Right click on 'My Drive' and choose 'share with Linux'. To make life easier, open the terminal and symlink the folder to your home directory:
+
+ln -sd /mnt/chromeos/GoogleDrive/MyDrive
+```
+
 Here are the Scripts for Terraform:
 ```
 # Install and configure Terraform
