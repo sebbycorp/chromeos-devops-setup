@@ -19,7 +19,7 @@ Here are the Scripts for Terraform:
 # Check for latest release https://releases.hashicorp.com/terraform/
 sudo apt-get install wget git unzip gnupg python3 python3-pip -y
 sudo apt-get update && sudo apt-get upgrade
-sudo wget https://releases.hashicorp.com/terraform/0.12.16/terraform_0.12.16_linux_amd64.zip
+sudo wget https://releases.hashicorp.com/terraform/1.0.7/terraform_1.0.7_linux_amd64.zip
 sudo unzip terraform_0.12.16_linux_amd64.zip
 sudo mv terraform /usr/local/bin/
 terraform –version
